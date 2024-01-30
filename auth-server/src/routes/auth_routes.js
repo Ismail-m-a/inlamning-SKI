@@ -1,3 +1,5 @@
+//Auth_routes.js
+
 // Importera Express för att skapa en router
 const express = require('express');
 // JSON Web Token (JWT) för autentisering
